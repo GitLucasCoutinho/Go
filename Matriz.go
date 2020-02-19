@@ -16,5 +16,7 @@ func main() {
             fmt.Printf("%d ", matriz[i][j])
         }
         fmt.Println()
+		fmt.Println()
+
     }
 }
