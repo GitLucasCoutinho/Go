@@ -24,5 +24,8 @@ func main() {
         }
     }
 
+	fmt.Print()
     fmt.Printf("A palavra '%s' possui %d vogais.\n", palavra, contador)
+	
+	
 }
