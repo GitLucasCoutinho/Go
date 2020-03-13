@@ -15,7 +15,7 @@ type Municipio struct {
 }
 
 func main() {
-	// URL da API pública do IBGE (lista de municípios do estado de São Paulo - código 35)
+	// URL da API pública do IBGE (contem lista de municípios do estado de São Paulo - código 35)
 	url := "https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/municipios"
 
 	// Fazendo requisição HTTP GET para a API
