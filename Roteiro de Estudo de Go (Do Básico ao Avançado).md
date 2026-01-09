@@ -1,5 +1,7 @@
 # 🐹 Roteiro de Estudo de Go (Do Básico ao Avançado)
 
+
+
 ## 🔹 Fundamentos Essenciais
 - **Instalação e ambiente**
   - Instale o Go via [site oficial](https://go.dev).
