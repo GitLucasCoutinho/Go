@@ -1,6 +1,5 @@
 
-Este repositório reúne diversos exemplos práticos em **Go (Golang)**, explorando conceitos fundamentais da linguagem como variáveis, estruturas de controle, funções, structs, interfaces, polimorfismo, encapsulamento, goroutines (threads), tratamento de erros e coleções.  
-O objetivo é servir como um guia de estudo e prática para iniciantes e intermediários em Go.
+Este repositório reúne diversos exemplos práticos em **Go (Golang)**, explorando conceitos fundamentais da linguagem como variáveis, estruturas de controle, funções, structs, interfaces, polimorfismo, encapsulamento, goroutines (threads), tratamento de erros, coleções e consumo de API pública.
 
 ---
 
@@ -45,6 +44,8 @@ O objetivo é servir como um guia de estudo e prática para iniciantes e interme
 - **tratar erros com panic e recover.go** → Simulação de try-catch com `panic` e `recover`.
 
 ---
+### 🔹 API
+- **consumindo API do IBGE.go ** → 
 
 ## 🚀 Como executar
 
