@@ -52,3 +52,6 @@ O objetivo é servir como um guia de estudo e prática para iniciantes e interme
 2. Clone este repositório:
    ```bash
    git clone https://github.com/GitLucasCoutinho/Go-Exemplos.git
+
+   cd Go-Exemplos
+   go run Olá-mundo.go
