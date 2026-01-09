@@ -3,7 +3,7 @@
 
 
 Este repositório reúne **exemplos práticos em Go (Golang)** desenvolvidos ao longo dos meus estudos.  
-Os arquivos foram escritos em diferentes momentos e commitados recentemente para organização, por isso podem existir diferenças entre a data real de criação e a data registrada no GitHub.  
+Os arquivos foram escritos em diferentes momentos e commitados para organização, por isso podem existir diferenças entre a data real de criação e a data registrada no GitHub.  
 
 O conteúdo explora conceitos fundamentais da linguagem, incluindo:
 - Variáveis e tipos
