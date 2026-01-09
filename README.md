@@ -53,5 +53,7 @@ O objetivo é servir como um guia de estudo e prática para iniciantes e interme
    ```bash
    git clone https://github.com/GitLucasCoutinho/Go-Exemplos.git
 
-   cd Go-Exemplos
-   go run Olá-mundo.go
+
+3. executar
+```bash
+go run Olá-mundo.go
