@@ -1,4 +1,6 @@
 
+[Roteiro de Estudo de Go (Do Básico ao Avançado)](https://github.com/GitLucasCoutinho/Go/blob/main/Roteiro%20de%20Estudo%20de%20Go%20(Do%20B%C3%A1sico%20ao%20Avan%C3%A7ado).md)
+
 Este repositório reúne diversos exemplos práticos em **Go (Golang)**, explorando conceitos fundamentais da linguagem como variáveis, estruturas de controle, funções, structs, interfaces, polimorfismo, encapsulamento, goroutines (threads), tratamento de erros, coleções e consumo de API pública.
 
 ---
